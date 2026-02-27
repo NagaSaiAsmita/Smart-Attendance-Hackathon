@@ -31,11 +31,6 @@ This project solves the manual attendance problem in colleges using computer vis
 4. **Start Session**: From the faculty dashboard, click "Start Session". The system will automatically detect and mark attendance for registered students.
 5. **Export Data**: Use the "Export CSV" button to get attendance reports.
 
-## Accuracy Explanation (>98%)
-The system achieves high accuracy through:
-- **Face Encodings**: Uses 128-dimensional face descriptors which are invariant to minor changes in lighting or expression.
-- **SSD Mobilenet**: High-precision face detection model.
-- **Euclidean Distance**: Uses a threshold of 0.6 for face matching to minimize false positives.
 
 ## Future Enhancements
 - Multi-camera support for large classrooms.
