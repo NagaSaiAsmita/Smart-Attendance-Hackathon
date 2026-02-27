@@ -41,4 +41,4 @@ The system achieves high accuracy through:
 - Multi-camera support for large classrooms.
 - Integration with University Management Systems (LMS).
 
-**#Project Link:** [smart-attendance-hackathon-ka12cuguj-nagasaiasmita.vercel.app](url)
+**#Project Link:** smart-attendance-hackathon-ka12cuguj-nagasaiasmita.vercel.app
