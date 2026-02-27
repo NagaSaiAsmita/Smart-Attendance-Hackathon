@@ -3,7 +3,7 @@
 An AI-powered attendance system that uses face recognition to automate roll calls and track student engagement in real-time.
 
 ## Project Overview
-This project solves the manual attendance problem in colleges using computer vision. It recognizes students via webcam, marks attendance in a local SQLite database, and analyzes facial expressions to generate engagement scores.
+This project solves the manual attendance problem in colleges using computer vision. It recognizes students via webcam, marks attendance in a local SQLite database.
 
 ## Architecture
 - **Frontend**: React 19, Tailwind CSS, Lucide Icons, Motion.
