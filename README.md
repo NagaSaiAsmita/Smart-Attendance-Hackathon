@@ -40,4 +40,3 @@ The system achieves high accuracy through:
 ## Future Enhancements
 - Multi-camera support for large classrooms.
 - Integration with University Management Systems (LMS).
-- Mobile app version for students to track attendance on the go.
