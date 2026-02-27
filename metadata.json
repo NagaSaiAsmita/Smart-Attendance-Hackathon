@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Smart Attendance and Engagement Tracker",
+  "description": "An AI-powered attendance and engagement tracking system for colleges using face recognition and behavioral analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
